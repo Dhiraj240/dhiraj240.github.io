@@ -84,8 +84,8 @@ analytics:
 # Site Author
 author:
   name             : "Dhiraj Sharma"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/assets/images/dhiraj.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Opensource Contributor & Loves to Code"
   location         : "Pune, Maharashtra"
   email            :
   uri              :
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "dhiraj240" # github username, "my_github_username"
-  gitlab           :
+  gitlab           : "dhiraj240"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "dhirajking3"
   vine             :
   weibo            :
   xing             :
