@@ -1,7 +1,7 @@
 ---
 title:  "GIRLSCRIPT SUMMER OF CODE"
 date:   2018-08-20
-tags: jekyll
+tags: jekyll1
 ---
 
 1. Built Git bot using pypi slackclient package to integrate slack channel and
