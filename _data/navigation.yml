@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
+  - title: "SphinxDoc"
+    url: /SphinxDoc/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
