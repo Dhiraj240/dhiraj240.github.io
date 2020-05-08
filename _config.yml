@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -86,8 +86,7 @@ author:
   name             : "Dhiraj Sharma"
   avatar           : "/assets/images/dhiraj.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Opensource Contributor & Loves to Code"
-  location         : "Army Institute of Technology"
-  location         : "Pune, Maharashtra"
+  location         : "Army Institute of Technology" /n "Pune, Maharashtra"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
